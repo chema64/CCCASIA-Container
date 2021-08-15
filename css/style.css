@@ -1,0 +1,89 @@
+.jumbotron {
+	margin-bottom: 0px;
+	background-color: #4E4198;
+	
+}
+
+
+.bg-light {
+	/*border: thin solid black;*/
+	background-color: #6E5BA3 !IMPORTANT;
+	
+}
+
+.bg-dark {
+	background-color: #6E5BA3 !IMPORTANT;
+	
+}
+
+.bi-flower1 {
+	/*border: thin solid black;*/
+	font-size: 2em;
+}
+
+.bi-house {
+	font-size: 2em;
+	
+}
+
+.navbar-brand {
+	/*border: thin solid white;*/
+	color: white;
+}
+
+
+
+.nav-pad {
+	padding-top:25px;
+	color: white;
+}
+
+.nav-item {
+	/*border: thin solid black;*/
+	color: white !important;
+}
+
+.navbar-nav li{
+	/*border: thin solid black;*/
+	font-size: 1.2em;
+	color: white;
+}
+
+.jumbo-style {
+	color: white;
+}
+
+#main {
+	/*border: thin solid black;*/
+	
+	/*height: 760px;*/
+
+	/*padding-top: 100px;
+	padding-bottom: 100px;*/
+
+
+	background-image: url(../img/1128x482Untitled.png);
+	background-repeat: repeat;
+	background-position: top-left;
+	background-size: auto	
+}
+
+#content {
+	/*margin-left: 20px;
+	margin-right: 20px;*/
+	margin-top: 40px;
+	margin-bottom: 40px;
+	border: thin solid black;
+	background-color: #DFACC0;
+	opacity: .9;
+	
+
+
+}
+
+.footer {
+	background-color: #8DA3D6;
+	/*border: thin solid red;*/
+	height: 70px;
+
+}
