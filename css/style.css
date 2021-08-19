@@ -7,12 +7,15 @@
 
 .bg-light {
 	/*border: thin solid black;*/
-	background-color: #6E5BA3 !IMPORTANT;
+	/*background-color: #6E5BA3 !IMPORTANT;*/
+	
 	
 }
 
 .bg-dark {
+	/*border: thin solid black;*/
 	background-color: #6E5BA3 !IMPORTANT;
+	/*background-color: #8DA3D6 !IMPORTANT;*/
 	
 }
 
@@ -97,8 +100,19 @@ li p {
 }
 
 .footer {
-	background-color: #8DA3D6;
+	background-color: #6E5BA3;
+	/*background-color: #8DA3D6;*/
 	/*border: thin solid red;*/
 	height: 70px;
 
+}
+
+.flex-container {
+	/*border: thin solid black;*/
+	display: flex;
+	justify-content: space-between;
+}
+
+.flex-container a {
+	color: white;
 }
