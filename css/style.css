@@ -34,6 +34,11 @@
 	color: white;
 }
 
+#navbarGrid { 
+	/*border: thin solid black;*/
+	background-color: #6E5BA3;
+}
+
 
 
 .nav-pad {
@@ -43,20 +48,25 @@
 
 .nav-item {
 	/*border: thin solid black;*/
-	color: white !important;
+	/*color: white !important;*/
 }
 
 .navbar-nav li{
 	/*border: thin solid black;*/
 	font-size: 1.2em;
-	color: white;
+	/*color: white;*/
 }
 
 .jumbo-style {
 	color: white;
 }
 
-#main {
+#jumbotronGrid {
+	/*border: thin solid black;*/
+	background-color: #4E4198;
+}
+
+#mainGrid {
 	/*border: thin solid black;*/
 	
 	/*height: 760px;*/
