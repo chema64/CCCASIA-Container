@@ -81,7 +81,19 @@
 	background-size: auto	
 }
 
-#content {
+#contentGrid {
+	/*border: thin solid black;*/
+}
+
+#homePageTextColour {
+	color: white;
+	margin-top: 100px;
+	margin-bottom: 100px;
+	/*box-shadow: 5px 5px 3px 0px white;*/
+}
+
+.content {
+	/*color: white;*/
 	/*margin-left: 20px;
 	margin-right: 20px;*/
 	margin-top: 40px;
@@ -89,8 +101,10 @@
 	margin-left: 15px;
 	margin-right: 15px;
 	padding: 20px;
-	/*border: thin solid black;*/
-	background-color: #DFACC0;
+	/*border: thick solid white;*/
+	/*border-width: 20px;*/
+	/*background-color: #DFACC0;*/
+	background-color: #B58290;
 	opacity: .9;
 	box-shadow: 5px 5px 3px 0px rgba(0, 0, 0, .9);
 	
