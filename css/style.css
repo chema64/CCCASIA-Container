@@ -112,6 +112,11 @@
 
 }
 
+.homePadding {
+	padding-top: 10px; 
+	padding-bottom: 10px;
+}
+
 h1 {
 text-shadow: 2px 2px 2px black;
 }
@@ -128,6 +133,17 @@ li p {
 .xsPhoneNoPadding {
 	/*border: thin solid black;*/
 	padding-top: 10px;
+	/*padding-right: 100px;*/
+}
+
+.bi-telephone {
+	/*border: thin solid black;*/
+	/*padding-right: 50px;*/
+}
+
+.bi-envelope-fill {
+	/*border: thin solid black;*/
+	/*padding-right: 50px;*/
 }
 
 .xsEmailPadding{
